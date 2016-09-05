@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Blood Sugar Diary</string>
+    <string name="menu.show_values">Show Values</string>
+    <string name="menu.edit_value">Edit Value</string>
+    <string name="menu.help">Help</string>
+    <string name="provider.authority">org.lobster.surreal.sugardiary</string>
+    <string name="show_values_title">Diary contents</string>
+</resources>
